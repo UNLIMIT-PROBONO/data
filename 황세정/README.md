@@ -16,6 +16,8 @@
   ![image](https://user-images.githubusercontent.com/124030255/234817173-0bb497c7-21d5-4336-b379-950e5588eee4.png)
   - 1인 평균 : 19,965.8 (Tcal)
 
+- ### [서울시 공무원 1인당 담당인구](http://data.seoul.go.kr/dataList/294/S/2/datasetView.do)
+   - 공무원 1인당 172명 담당
 
 ---
 
